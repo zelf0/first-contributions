@@ -993,6 +993,7 @@ Nathan Hill
 - [Pratik Ramteke] (https://github.com/pratikramteke)
 - [AungThuZaw] (https://github.com/AungThuZaw20)
 - [Hassan] (https://github.com/hassansahhin)
+- [ekdeguzm] (https://github.com/ekdeguzm)
 - [Esra Zeybek] (https://github.com/ElsaZey)
 - [Daniel Corwin] (https://github.com/dcrwn)
 - [Furqan Amjad] (https://github.com/megaz90)
